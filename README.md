@@ -45,8 +45,7 @@ Snippet of the simulation sheet showing the probabilistic model with key formula
 
 ### 🏅 Rating Table
 Snippet of the team rating table used to calculate offensive and defensive metrics, home-field adjustments, and other constants feeding the simulation engine.  
-![Rating Table Screenshot](Dashboard_Image/Rating_Table.png)
-
+![Rating Table Screenshot](Rating%20Image/Rating%20Table.png)
 ## 🌐 Data Sources
 All datasets are publicly available:
 - [NFL.com Offensive Stats 2024](https://www.nfl.com/stats/team-stats/offense/scoring/2024/reg/all)
