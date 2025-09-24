@@ -46,6 +46,7 @@ Snippet of the simulation sheet showing the probabilistic model with key formula
 ### 🏅 Rating Table
 Snippet of the team rating table used to calculate offensive and defensive metrics, home-field adjustments, and other constants feeding the simulation engine.  
 ![Rating Table Screenshot](Rating%20Image/Rating%20Table.png)
+
 ## 🌐 Data Sources
 All datasets are publicly available:
 - [NFL.com Offensive Stats 2024](https://www.nfl.com/stats/team-stats/offense/scoring/2024/reg/all)
@@ -104,8 +105,20 @@ The simulation relies on advanced Excel formulas and modeling techniques:
 
 ## 🎯 Project Impact
 
-• Demonstrates probabilistic modeling, sports analytics, and Excel engineering skills.
+• Demonstrates probabilistic modeling, sports analytics, and data engineering skills.
 
 • Simulates realistic NFL outcomes for 272 games across two seasons with actionable betting metrics.
 
 • Supports data-driven decision-making for analysts, enthusiasts, or anyone exploring sports simulations.
+
+## 🖱️ How to Use
+1. Open the Excel workbook.
+   
+2. Select Home and Away teams from the dropdowns.
+   
+3. Choose a game range to populate upcoming games.
+   
+4. Review simulated scores, win probabilities, spreads, moneyline, and totals.
+   
+5. Adjust scenarios using What-If Analysis for custom simulations.
+
