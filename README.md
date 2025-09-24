@@ -1,5 +1,5 @@
 # NFL-Betting-Analysis
-## Project Overview
+## 📝 Project Overview
 Built a fully functional NFL betting simulation program in Excel that models MoneyLine, spread, and over/under outcomes using historical data, advanced probability, scenario analysis, and 5,000+ iteration simulations.
 The workbook simulates 272 games across the 2023–2024 NFL seasons, generating over 1.3 million score outcomes and actionable win probabilities. It transforms Excel into a predictive analytics tool comparable to professional sports betting software.
 
