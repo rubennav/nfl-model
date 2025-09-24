@@ -24,12 +24,15 @@ User-Friendly Design: Interactive slicers, numeric and percentage views, optimiz
 
 ## Data Sources
 All datasets are publicly available:
-NFL.com Offensive Stats 2024
-NFL.com Defensive Receiving Stats 2024
-NFL.com Defensive Rushing Stats 2024
-NFL Standings
-Pro-Football-Reference 2023–2024 Games
-Stathead Drive Finder
+- [NFL.com Offensive Stats 2024](https://www.nfl.com/stats/team-stats/offense/scoring/2024/reg/all)
+- [NFL.com Defensive Receiving Stats 2024](https://www.nfl.com/stats/team-stats/defense/receiving/2024/reg/all)
+- [NFL.com Defensive Rushing Stats 2024](https://www.nfl.com/stats/team-stats/defense/rushing/2024/reg/all)
+- [NFL Standings](https://www.nfl.com/standings/)
+- [Pro-Football-Reference 2023–2024 Games](https://www.pro-football-reference.com/years/2024/games.htm)
+- [Stathead Drive Finder](https://stathead.com/football/drive_finder.cgi?request=1&year_min=2023&year_max=2023)
+
+> Note: Data is publicly sourced. GitHub does not host these files; download directly from the provided links.
+
 Workbook Sheets Overview
 
 2023 NFL Data – Raw team and game data
