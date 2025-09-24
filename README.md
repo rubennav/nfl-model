@@ -33,24 +33,14 @@ All datasets are publicly available:
 
 > Note: Data is publicly sourced. GitHub does not host these files; download directly from the provided links.
 
-Workbook Sheets Overview
-
+## Workbook Sheets Overview
 2023 NFL Data – Raw team and game data
-
 2024 NFL Data – Raw team and game data
-
 NFL Standings – Season rankings and records
-
 Game(s) Data – All game-level statistics
-
 Team Ratings – Calculated metrics for offense and defense
-
 Strength of Schedule – Weighted difficulty metrics
-
 Team Map – Visual representation of teams and locations
-
 Miscellaneous Stats – Supplemental constants used in simulations
-
 Simulation – 5,000+ iteration probabilistic engine
-
 Dashboard – Interactive results with betting analytics
