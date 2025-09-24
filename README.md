@@ -35,7 +35,7 @@ Upcoming Games Table: Lists all games within the selected range with simulated r
 User-Friendly Design: Interactive slicers, numeric and percentage views, optimized for quick decision-making.
 
 ## Visualization
-![Dashboard Screenshot](Dashboard Image/Dashboard.png)
+![Dashboard Screenshot](Dashboard%20Image/Dashboard.png)
 
 ## 🌐 Data Sources
 All datasets are publicly available:
