@@ -17,13 +17,21 @@ Ravens vs Chargers — Predicted score: 26.49 to 26.99, Chargers 51.54% win prob
 
 ## Dashboard Features
 Team Selection: Dropdowns for selecting Home and Away teams. Automatically updates all simulations.
+
 Score & Win Probability: Displays projected scores and win chances for both teams.
+
 Betting Lines:
+
     • Spread: Predicted point differential
+    
     • Moneyline: Simulated win odds
+    
     • Total Points (Over/Under): Expected total score
+    
 Game Range Filter: Select a date range to populate all upcoming games.
+
 Upcoming Games Table: Lists all games within the selected range with simulated results and betting lines.
+
 User-Friendly Design: Interactive slicers, numeric and percentage views, optimized for quick decision-making.
 
 ## Data Sources
