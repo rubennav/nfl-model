@@ -46,13 +46,54 @@ All datasets are publicly available:
 > Note: Data is publicly sourced. GitHub does not host these files; download directly from the provided links.
 
 ## Workbook Sheets Overview
-2023 NFL Data – Raw team and game data
-2024 NFL Data – Raw team and game data
-NFL Standings – Season rankings and records
-Game(s) Data – All game-level statistics
-Team Ratings – Calculated metrics for offense and defense
-Strength of Schedule – Weighted difficulty metrics
-Team Map – Visual representation of teams and locations
-Miscellaneous Stats – Supplemental constants used in simulations
-Simulation – 5,000+ iteration probabilistic engine
-Dashboard – Interactive results with betting analytics
+• 2023 NFL Data – Raw team and game data
+
+• 2024 NFL Data – Raw team and game data
+
+• NFL Standings – Season rankings and records
+
+• Game(s) Data – All game-level statistics
+
+• Team Ratings – Calculated metrics for offense and defense
+
+• Strength of Schedule – Weighted difficulty metrics
+
+• Team Map – Visual representation of teams and locations
+
+• Miscellaneous Stats – Supplemental constants used in simulations
+
+• Simulation – 5,000+ iteration probabilistic engine
+
+• Dashboard – Interactive results with betting analytics
+
+## Key Formulas & Logic
+
+The simulation relies on advanced Excel formulas and modeling techniques:
+
+• LET() – Assigns variables for readability and repeated calculations.
+
+• BINOM.INV() – Generates simulated counts for touchdowns, field goals, 2-point conversions, and safeties.
+
+• XLOOKUP() – Retrieves team ratings, stats, and constants from relevant sheets.
+
+• DROP() – Excludes header rows or initial data points for cleaner table-based calculations.
+
+• SUMPRODUCT() – Performs weighted averages and array multiplications.
+
+• IF() – Applies conditional logic for outcomes and dashboard visualization.
+
+• SUMIF() – Aggregates values by condition, e.g., points scored vs allowed.
+
+• IFERROR() – Handles missing data or edge cases gracefully.
+
+• Array Formulas – Calculate totals and expected scores dynamically.
+
+• What-If Analysis – Runs 5,000+ iteration simulations per matchup for probability distributions.
+
+## Project Impact
+
+• Demonstrates probabilistic modeling, sports analytics, and Excel engineering skills.
+
+• Simulates realistic NFL outcomes for 272 games across two seasons with actionable betting metrics.
+
+• Supports data-driven decision-making for analysts, enthusiasts, or anyone exploring sports simulations.
