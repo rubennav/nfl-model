@@ -5,9 +5,13 @@ The workbook simulates 272 games across the 2023–2024 NFL seasons, generating 
 
 ## Key Contributions
 • End-to-End Data Pipeline: Collected, cleaned, and transformed NFL datasets from 2023–2024 seasons (team stats, field goals, schedules, standings) using Power Query.
+
 • Custom Simulation Engine: Built a 5,000-iteration probabilistic model using LET, BINOM.INV, XLOOKUP, SUMPRODUCT, DROP, IF, SUMIF, IFERROR, and array formulas to simulate touchdowns, field goals, 2-point conversions, and overall game flow.
+
 • Predictive Metrics & Insights: Engineered metrics including Strength of Schedule, home-field adjustments (10% advantage), game flow predictions, and confidence scores for betting reliability.
+
 • Dynamic Dashboards: Created user-friendly dashboards for upcoming games, showing simulated odds, projected scores, spreads, moneyline, total points, and win probabilities.
+
 Example:
 Ravens vs Chargers — Predicted score: 26.49 to 26.99, Chargers 51.54% win probability.
 
