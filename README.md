@@ -41,7 +41,7 @@ The final interactive dashboard displays team selection, projected scores, win p
 
 ### ⚙️ Simulation Engine
 Snippet of the simulation sheet showing the probabilistic model with key formulas (`LET`, `BINOM.INV`, `XLOOKUP`, `What-If Analysis`) and calculations for touchdowns, field goals, and game flow.  
-![Simulation Screenshot](Simulation.png)
+![Simulation Screenshot](Dashboard_Image/Simulation.png)
 
 ### 🏅 Rating Table
 Snippet of the team rating table used to calculate offensive and defensive metrics, home-field adjustments, and other constants feeding the simulation engine.  
