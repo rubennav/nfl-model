@@ -35,7 +35,17 @@ Upcoming Games Table: Lists all games within the selected range with simulated r
 User-Friendly Design: Interactive slicers, numeric and percentage views, optimized for quick decision-making.
 
 ## 📸 Visualization
+### 📊 Dashboard
+The final interactive dashboard displays team selection, projected scores, win probabilities, spreads, moneyline, total points, and upcoming games.  
 ![Dashboard Screenshot](Dashboard%20Image/Dashboard.png)
+
+### ⚙️ Simulation Engine
+Snippet of the simulation sheet showing the probabilistic model with key formulas (`LET`, `BINOM.INV`, `XLOOKUP`, `What-If Analysis`) and calculations for touchdowns, field goals, and game flow.  
+![Simulation Screenshot](Dashboard_Image/Simulation.png)
+
+### 🏅 Rating Table
+Snippet of the team rating table used to calculate offensive and defensive metrics, home-field adjustments, and other constants feeding the simulation engine.  
+![Rating Table Screenshot](Dashboard_Image/Rating_Table.png)
 
 ## 🌐 Data Sources
 All datasets are publicly available:
