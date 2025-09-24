@@ -3,7 +3,7 @@
 Built a fully functional NFL betting simulation program in Excel that models MoneyLine, spread, and over/under outcomes using historical data, advanced probability, scenario analysis, and 5,000+ iteration simulations.
 The workbook simulates 272 games across the 2023–2024 NFL seasons, generating over 1.3 million score outcomes and actionable win probabilities. It transforms Excel into a predictive analytics tool comparable to professional sports betting software.
 
-## Key Contributions
+## 🚀 Key Contributions
 • End-to-End Data Pipeline: Collected, cleaned, and transformed NFL datasets from 2023–2024 seasons (team stats, field goals, schedules, standings) using Power Query.
 
 • Custom Simulation Engine: Built a 5,000-iteration probabilistic model using LET, BINOM.INV, XLOOKUP, SUMPRODUCT, DROP, IF, SUMIF, IFERROR, and array formulas to simulate touchdowns, field goals, 2-point conversions, and overall game flow.
@@ -15,7 +15,7 @@ The workbook simulates 272 games across the 2023–2024 NFL seasons, generating 
 Example:
 Ravens vs Chargers — Predicted score: 26.49 to 26.99, Chargers 51.54% win probability.
 
-## Dashboard Features
+## 🎛️ Dashboard Features
 Team Selection: Dropdowns for selecting Home and Away teams. Automatically updates all simulations.
 
 Score & Win Probability: Displays projected scores and win chances for both teams.
@@ -34,7 +34,10 @@ Upcoming Games Table: Lists all games within the selected range with simulated r
 
 User-Friendly Design: Interactive slicers, numeric and percentage views, optimized for quick decision-making.
 
-## Data Sources
+## Visualization
+![Dashboard Screenshot](Dashboard Image/Dashboard.png)
+
+## 🌐 Data Sources
 All datasets are publicly available:
 - [NFL.com Offensive Stats 2024](https://www.nfl.com/stats/team-stats/offense/scoring/2024/reg/all)
 - [NFL.com Defensive Receiving Stats 2024](https://www.nfl.com/stats/team-stats/defense/receiving/2024/reg/all)
@@ -45,7 +48,7 @@ All datasets are publicly available:
 
 > Note: Data is publicly sourced. GitHub does not host these files; download directly from the provided links.
 
-## Workbook Sheets Overview
+## 📂 Workbook Sheets Overview
 • 2023 NFL Data – Raw team and game data
 
 • 2024 NFL Data – Raw team and game data
@@ -66,7 +69,7 @@ All datasets are publicly available:
 
 • Dashboard – Interactive results with betting analytics
 
-## Key Formulas & Logic
+## 🔢 Key Formulas & Logic
 
 The simulation relies on advanced Excel formulas and modeling techniques:
 
@@ -90,7 +93,7 @@ The simulation relies on advanced Excel formulas and modeling techniques:
 
 • What-If Analysis – Runs 5,000+ iteration simulations per matchup for probability distributions.
 
-## Project Impact
+## 🎯 Project Impact
 
 • Demonstrates probabilistic modeling, sports analytics, and Excel engineering skills.
 
